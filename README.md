@@ -1,5 +1,5 @@
 # oplover-api
-Oploverz API's
+Unofficial Oploverz API's
 
 # Get All Series
 > API ini berfungsi untuk mengambil semua series anime
