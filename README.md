@@ -27,3 +27,6 @@ Oploverz API's
 * DATA: ```url=<url_episode>```
 * Methods: ```GET```
 > example for GET request: https://nuubi.herokuapp.com/api/oplover/get_urldl?url=https://www.oploverz.in/boku-no-hero-academia-01-subtitle-indonesia/
+
+
+* Example <a href="https://github.com/KANG-NEWBIE/oplover-api/blob/master/oplover-dl.py">source code</a> 
